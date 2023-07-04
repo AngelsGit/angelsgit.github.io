@@ -30,7 +30,7 @@ var commands = {
     whoami: function() {
         this.echo("I am passionate about web development as well as low level programming like working on Kernels for Operating Systems. \n" +
             "Previously I worked at " +  hotpink("Deloitte Consulting") + " as an " + green("IT associate") + ", before that I was a " + green("Software Engineering Intern") + 
-            " at Both: " + hotpink("Dell Technlogies") + " & " + hotpink("LaunchGood.") + " I am now a" + "full-time" + green(" Software Engineer \n") + "@ " + hotpink("NextEra Energy.") +
+            " at Both: " + hotpink("Dell Technlogies") + " & " + hotpink("LaunchGood.") + " I am now a" + "full-time" + green(" Software Engineer\n") + "@ " + hotpink("NextEra Energy.") +
             " I graduated with my " + green("Bachelor's") + " in " + green("Computer Science") + " from " + blue("Florida International"
             + " University") + " with " + gold("Cum Laude Honors.\n\n") +
             green("Languages:") + " Python, Java, javascript & C \n\n");

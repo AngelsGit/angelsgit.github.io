@@ -35,7 +35,7 @@ var commands = {
             green("Languages:") + " Python, C, C++ & C \n\n");
     },
     projects: function() {
-        this.echo("I'm currently working on building my own compilers for C and Java \n" + "As well as working on something special at " + green("EverythingButCode.io"));
+        this.echo("I'm currently working on building my own compilers for C and Java \n");
     },
     contact: function() {
         this.echo("Email: AngelAlfarox at gmail dot com\n" +
